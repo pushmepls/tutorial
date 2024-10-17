@@ -22,5 +22,21 @@
       "title": "Congrats",
       "description": "You have finished our tutorial for the Contact page. Thank you for using our CRM; we love to receive feedback from our customers. Feel free to submit it. Thank you again for your time."
     }
+  },
+  "/find-leads": {
+    "steps": [
+      {
+        "target": "#find-lead-filter",
+        "content": "right"
+      },
+      {
+        "target": "div.ant-flex > button:nth-child(3)", // Selects the third child within elements with class 'contact-item'
+        "content": "This is the third contact item."
+      }
+    ],
+    "finishModalContent": {
+      "title": "Congrats",
+      "description": "You have finished our tutorial for the Find-Lead page. Thank you for using our CRM; we love to receive feedback from our customers. Feel free to submit it. Thank you again for your time."
+    }
   }
 }
