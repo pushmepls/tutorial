@@ -3,19 +3,19 @@
     "steps": [
       {
         "target": "#addContactButton",
-        "content": "<div style=\"display: flex; flex-direction: column; gap: 12px; text-align: start;\"><div style='display: flex; align-items: center; justify-content: flex-start; gap: 8px;'><img src=\"https://drive.google.com/uc?id=1wgzzwIw0AKUo66LCb9v8JwW6jJb3q6n-\" /><p style=' font-weight: bold '>Click to <span style=' color: #0052CC; font-weight: bold '>Create a New Contact</span></p></div><p style=' color: #333; font-size: 12px '>A contact can be a new lead, a former customer, a current customer, or even from a physical store you'd like to connect with.</p><p style=' color: #333; font-size: 12px '>You can also categorize each contact using the Smart List and Custom Contact List features later on.</p></div>"
+        "content": "<div style=\"display: flex; flex-direction: column; gap: 12px; text-align: start;\"><div style='display: flex; align-items: center; justify-content: flex-start; gap: 8px;'><img src=\"https://tego-crm-be-us-west-2-dev.s3.us-west-2.amazonaws.com/icon/8b3fc07a-29d9-4168-9e1f-568f30c69a34-Icons.png\" /><p style=' font-weight: bold '>Click to <span style=' color: #0052CC; font-weight: bold '>Create a New Contact</span></p></div><p style=' color: #333; font-size: 12px '>A contact can be a new lead, a former customer, a current customer, or even from a physical store you'd like to connect with.</p><p style=' color: #333; font-size: 12px '>You can also categorize each contact using the Smart List and Custom Contact List features later on.</p></div>"
       },
       {
         "target": "#contactActions",
-        "content": "<div style=\"display: flex; flex-direction: column; gap: 12px; text-align: start;\"><div style='display: flex; align-items: center; justify-content: flex-start; gap: 8px;'><img src=\"https://drive.google.com/uc?id=1wgzzwIw0AKUo66LCb9v8JwW6jJb3q6n-\" /><p style=' font-weight: bold '>Click to <span style=' color: #0052CC; font-weight: bold '>Search, Filter and Sort</span></p></div><p style=' color: #333; font-size: 12px '>Type a name, phone number, or email to search for specific contacts.</p><p style=' color: #333; font-size: 12px '>You can also use filters to narrow down results based on your conditions, and easily sort the contact list below to suit your preferences.</p></div>"
+        "content": "<div style=\"display: flex; flex-direction: column; gap: 12px; text-align: start;\"><div style='display: flex; align-items: center; justify-content: flex-start; gap: 8px;'><img src=\"https://tego-crm-be-us-west-2-dev.s3.us-west-2.amazonaws.com/icon/8b3fc07a-29d9-4168-9e1f-568f30c69a34-Icons.png\" /><p style=' font-weight: bold '>Click to <span style=' color: #0052CC; font-weight: bold '>Search, Filter and Sort</span></p></div><p style=' color: #333; font-size: 12px '>Type a name, phone number, or email to search for specific contacts.</p><p style=' color: #333; font-size: 12px '>You can also use filters to narrow down results based on your conditions, and easily sort the contact list below to suit your preferences.</p></div>"
       },
       {
         "target": ".viewContactLink",
-        "content": "<div style=\"display: flex; flex-direction: column; gap: 12px; text-align: start;\"><div style='display: flex; align-items: center; justify-content: flex-start; gap: 8px;'><img src=\"https://drive.google.com/uc?id=1wgzzwIw0AKUo66LCb9v8JwW6jJb3q6n-\" /><p style=' font-weight: bold '>Click to <span style=' color: #0052CC; font-weight: bold '>View Contact Details</span></p></div><p style=' color: #333; font-size: 12px '>Simply click on any contact name to view detailed information.</p><p style=' color: #333; font-size: 12px '>Here, you can easily view and edit contact info, manage related tasks and notes, and communicate directly—all in one place.</p></div>"
+        "content": "<div style=\"display: flex; flex-direction: column; gap: 12px; text-align: start;\"><div style='display: flex; align-items: center; justify-content: flex-start; gap: 8px;'><img src=\"https://tego-crm-be-us-west-2-dev.s3.us-west-2.amazonaws.com/icon/8b3fc07a-29d9-4168-9e1f-568f30c69a34-Icons.png\" /><p style=' font-weight: bold '>Click to <span style=' color: #0052CC; font-weight: bold '>View Contact Details</span></p></div><p style=' color: #333; font-size: 12px '>Simply click on any contact name to view detailed information.</p><p style=' color: #333; font-size: 12px '>Here, you can easily view and edit contact info, manage related tasks and notes, and communicate directly—all in one place.</p></div>"
       },
       {
         "target": ".custom-pagination > div:first-child > .ant-select",
-        "content": "<div style=\"display: flex; flex-direction: column; gap: 12px; text-align: start;\"><div style='display: flex; align-items: center; justify-content: flex-start; gap: 8px;'><img src=\"https://drive.google.com/uc?id=1wgzzwIw0AKUo66LCb9v8JwW6jJb3q6n-\" /><p style=' font-weight: bold '>Click to <span style=' color: #0052CC; font-weight: bold '>Change Results per Page</span></p></div><p style=' color: #333; font-size: 12px '>Adjust the number of contacts displayed in this window by changing the results per page setting</p></div>"
+        "content": "<div style=\"display: flex; flex-direction: column; gap: 12px; text-align: start;\"><div style='display: flex; align-items: center; justify-content: flex-start; gap: 8px;'><img src=\"https://tego-crm-be-us-west-2-dev.s3.us-west-2.amazonaws.com/icon/8b3fc07a-29d9-4168-9e1f-568f30c69a34-Icons.png\" /><p style=' font-weight: bold '>Click to <span style=' color: #0052CC; font-weight: bold '>Change Results per Page</span></p></div><p style=' color: #333; font-size: 12px '>Adjust the number of contacts displayed in this window by changing the results per page setting</p></div>"
       }
     ],
     "finishModalContent": {
@@ -30,7 +30,7 @@
         "content": "right"
       },
       {
-        "target": "div.ant-flex > button:nth-child(3)", // Selects the third child within elements with class 'contact-item'
+        "target": "div.ant-flex > button:nth-child(3)",
         "content": "This is the third contact item."
       }
     ],
